@@ -1,0 +1,26 @@
+.social-media {
+  margin: 20px;
+  border: 5px solid rgb(27, 99, 5);
+  padding: 20px;
+  border-radius: 10px;
+}
+#posts {
+  width: 400px;
+}
+
+#posts div {
+  display: flex;
+  justify-content: space-between;
+}
+.options {
+  display: flex;
+  gap: 20px;
+}
+
+i {
+  cursor: pointer;
+}
+/* 
+#msg {
+  color: red;
+} */
